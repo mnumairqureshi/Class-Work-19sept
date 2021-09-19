@@ -1,0 +1,14 @@
+void main () {
+
+  
+  var  lst = [2,3,4,5,5,7,3,3];
+
+  for(var a=0; a<lst.length; a++){
+  print (lst[a]);
+  
+}
+ 
+  
+  
+  
+}
