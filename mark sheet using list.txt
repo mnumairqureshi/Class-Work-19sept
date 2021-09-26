@@ -1,0 +1,20 @@
+void main (){
+  var aa = [95,80,75,74];
+  var bb = ["ali","bilal"];
+  for(var i=0;i<aa.length;i++){
+    abc(aa[i]);
+  }  
+}
+void abc (num per){
+  
+  
+   if (per>=95){;
+    print ("Grade A");
+  }else  if (per>=80){
+    print ("Grade B");
+  }else if (per>=75){
+    print ("Grade C");
+}else if (per<=75){
+    print ("Grade FAIL");
+}
+}
